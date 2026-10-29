@@ -1,4 +1,4 @@
-# ted-system-site   
+# TED System
 
 > Tecnologia que evolui com o seu negócio.
 
