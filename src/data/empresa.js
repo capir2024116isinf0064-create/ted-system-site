@@ -55,6 +55,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Guilherme",
+      cargo: "Diretor de Tecnologia e Inovação",
+      foto: "/images/guilherme.jpg",
+      alt: "Foto de Guilherme",
+      descricao: "Responsável por liderar soluções tecnológicas, supervisionar projetos digitais e impulsionar a inovação e o crescimento da empresa."
     }
   ]
 };

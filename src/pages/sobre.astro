@@ -33,6 +33,10 @@ import { empresa } from '../data/empresa.js';
 		<div class="container">
 			<h2 class="titulo-valores">Nossos Valores</h2>
 			<div class="grid-valores">
+				<Cartao destaque={true}>
+					<h3>Compromisso</h3>
+					<p>Nosso compromisso vai além de oferecer produtos e serviços. Trabalhamos com dedicação, responsabilidade e respeito, buscando sempre a satisfação dos nossos clientes e construindo relações baseadas na confiança e na qualidade.</p>
+				</Cartao>
 				{empresa.valores.map((valor) => (
 					<Cartao destaque={true}>
 						<h3>{valor.titulo}</h3>
